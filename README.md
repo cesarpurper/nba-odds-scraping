@@ -10,7 +10,7 @@ This project is a simple scraper to scrape initial and end NBA odds from the web
 ## How to run it
 
 The spider receives two parameters as arguments
-- initial_date = the initial date the spider will start scraping
+- start_date = the initial date the spider will start scraping
 - end_date = the date the spider will end scraping
 
 and example command line would be 
